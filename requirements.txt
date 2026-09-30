@@ -1,0 +1,7 @@
+numpy
+scipy>=1.14
+numdifftools
+Py-BOBYQA
+xarray
+netCDF4
+cftime
